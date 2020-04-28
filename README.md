@@ -9,15 +9,6 @@ Image type | PD | NPD | Total
 DaT scan | 590 | 330 | 920
 MRI | 32706 | 10381 | 43087
 
-
-
-To get this dataset:
-
-```
-git clone gogs@git.islab.ntua.gr:thanos/ntua_parkinson.git
-```
-
-
 If you plan to use this dataset in your research, please cite:
 
 <pre>
@@ -32,19 +23,3 @@ If you plan to use this dataset in your research, please cite:
   publisher={World Scientific}
 }
 </pre>
-
-## Issues:
-
-- If you get a server certificate verification error:
-
-```
-fatal: unable to access 'https://git.islab.ntua.gr/thanos/ntua_parkinson.git/': server certificate verification failed. CAfile: /etc/ssl/certs/ca-certificates.crt CRLfile: none
-```
-
-Do the following:  
-
-```
-git config --global http.sslverify false   
-git clone https://git.islab.ntua.gr/thanos/ntua_parkinson.git   
-git config --global http.sslverify true   
-```
