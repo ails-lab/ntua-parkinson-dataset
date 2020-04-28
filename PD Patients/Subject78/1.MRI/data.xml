@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<splashcontent>
+<site>
+<sitename>BioMed</sitename>
+<addr0></addr0>
+<addr1>Panagi Tsaldari 75-77</addr1>
+<addr2>Athens</addr2>
+<phone>210 5775588-90</phone>
+<webaddr>www.bioiatriki.gr</webaddr>
+<image>null</image>
+</site>
+<viewer>
+<text>Clarity English</text>
+<action>fscommand\RunViewer0.exe</action>
+</viewer>
+<button>
+<label>disabled</label>
+<action>null</action>
+</button>
+<button>
+<label>BUTTON_DICOM_STUDIES</label>
+<action></action>
+</button>
+<language>
+<lang code="ca" file="CDXDATA\launchpad_data\locale_ca.xml">Català</lang>
+</language>
+<language>
+<lang code="de" file="CDXDATA\launchpad_data\locale_de.xml">Deutsch</lang>
+</language>
+<language>
+<lang code="en" file="CDXDATA\launchpad_data\locale_en.xml">English</lang>
+</language>
+<language>
+<lang code="es" file="CDXDATA\launchpad_data\locale_es.xml">Español</lang>
+</language>
+<language>
+<lang code="fr" file="CDXDATA\launchpad_data\locale_fr.xml">Français</lang>
+</language>
+<language>
+<lang code="hu" file="CDXDATA\launchpad_data\locale_hu.xml">Magyar</lang>
+</language>
+<language>
+<lang code="it" file="CDXDATA\launchpad_data\locale_it.xml">Italiano</lang>
+</language>
+<language>
+<lang code="ja" file="CDXDATA\launchpad_data\locale_ja.xml">日本語</lang>
+</language>
+<language>
+<lang code="pt" file="CDXDATA\launchpad_data\locale_pt.xml">Português</lang>
+</language>
+<language>
+<lang code="zh" file="CDXDATA\launchpad_data\locale_zh.xml">中文</lang>
+</language>
+</splashcontent>

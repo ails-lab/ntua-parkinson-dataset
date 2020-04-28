@@ -1,0 +1,374 @@
+
+------------------------------------ PATIENT INFO ------------------------------------
+   (0004, 1430) Directory Record Type               CS: 'PATIENT'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0010, 0010) Patient's Name                      PN: 'PRANTALOU^GEORGIA'
+   (0010, 0020) Patient ID                          LO: '3058453'
+   (0010, 0030) Patient's Birth Date                DA: '19620101'
+   
+------------------------------------ STUDY INFO ------------------------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 297022
+   (0004, 1430) Directory Record Type               CS: 'STUDY'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0020) Study Date                          DA: '20161006'
+   (0008, 0030) Study Time                          TM: '092820'
+   (0008, 0050) Accession Number                    SH: ''
+   (0008, 1030) Study Description                   LO: 'BRAIN'
+   (0020, 000d) Study Instance UID                  UI: 1.2.840.113619.6.388.277192456483808629646545675294037322958
+   (0020, 0010) Study ID                            SH: '274'
+   
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 1 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 964
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '101216'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 2 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 7336
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '101312'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 3 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 14792
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '101650'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 4 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 22260
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '101925'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 5 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 29718
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '102325'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 6 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 65754
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '102811'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 7 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 125526
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '103508'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 8 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 155636
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '103515'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 9 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 272788
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '103538'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 10 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 297236
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '092820'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 11 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 303574
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '092929'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 12 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 310988
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '093307'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 13 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 318404
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '093505'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 14 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 325820
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '093702'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 15 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 333238
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '094105'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 16 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 340654
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '094446'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 17 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 348082
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '094720'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 18 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 355498
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '095120'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 19 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 362912
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '095456'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 20 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 369182
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '095606'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 21 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 403212
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0060) Modality                            CS: 'MR'
+   (0008, 103e) Series Description                  LO: 'Screen Save'
+   (0020, 000e) Series Instance UID                 UI: 1.2.840.113619.2.388.4722639.4348297.29434.1475735587768
+
+------------------------------------ PATIENT INFO ------------------------------------
+   (0004, 1430) Directory Record Type               CS: 'PATIENT'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0010, 0010) Patient's Name                      PN: 'PRANTALOU^GEORGIA'
+   (0010, 0020) Patient ID                          LO: '3058453'
+   (0010, 0030) Patient's Birth Date                DA: '19620101'
+   
+------------------------------------ STUDY INFO ------------------------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 297022
+   (0004, 1430) Directory Record Type               CS: 'STUDY'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0020) Study Date                          DA: '20161006'
+   (0008, 0030) Study Time                          TM: '092820'
+   (0008, 0050) Accession Number                    SH: ''
+   (0008, 1030) Study Description                   LO: 'BRAIN'
+   (0020, 000d) Study Instance UID                  UI: 1.2.840.113619.6.388.277192456483808629646545675294037322958
+   (0020, 0010) Study ID                            SH: '274'
+   
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 1 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 964
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '101216'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 2 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 7336
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '101312'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 3 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 14792
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '101650'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 4 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 22260
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '101925'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 5 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 29718
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '102325'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 6 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 65754
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '102811'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 7 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 125526
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '103508'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 8 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 155636
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '103515'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 9 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 272788
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '103538'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 10 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 297236
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '092820'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 11 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 303574
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '092929'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 12 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 310988
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '093307'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 13 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 318404
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '093505'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 14 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 325820
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '093702'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 15 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 333238
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '094105'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 16 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 340654
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '094446'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 17 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 348082
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '094720'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 18 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 355498
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '095120'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 19 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 362912
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '095456'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 20 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 369182
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0021) Series Date                         DA: '20161006'
+   (0008, 0031) Series Time                         TM: '095606'
+   (0008, 0060) Modality                            CS: 'MR'
+------------------------------------ SERIES INFO ------------------------------------
+                    ------------------ SERIES 21 ------------------
+   (0004, 1420) Offset of Referenced Lower-Level Di UL: 403212
+   (0004, 1430) Directory Record Type               CS: 'SERIES'
+   (0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+   (0008, 0060) Modality                            CS: 'MR'
+   (0008, 103e) Series Description                  LO: 'Screen Save'
+   (0020, 000e) Series Instance UID                 UI: 1.2.840.113619.2.388.4722639.4348297.29434.1475735587768
